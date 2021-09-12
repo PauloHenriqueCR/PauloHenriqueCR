@@ -21,7 +21,5 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/hwaryun120)
 
 ![PauloHenriqueCR GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloHenriqueCR&show_icons=true&theme=tokyonight)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/github-readme-stats)
 
