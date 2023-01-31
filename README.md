@@ -2,7 +2,7 @@
 
 ### 
 - 🌎 Técnico em Redes de computadores.
-- 📘 Tentando desenvolver habilidades no Back-end. 
+- 📘 Estudante de Front-end. 
 
 ### Tecnologias 
 
