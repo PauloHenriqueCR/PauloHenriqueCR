@@ -4,7 +4,7 @@
 - 🌎 Técnico em Redes de computadores.
 - 📘 Estudante de Front-end. 
 
-### Tecnologias 
+### Tecnologia
 
 <div style="display: inline_block">
   <img align="center" alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
