@@ -1,4 +1,4 @@
-### Fala Dev!eu sou Paulo Henrique 👋 
+### Fala Dev! me chamo Paulo Henrique 👋 
 
 ### 
 - 🌎 Técnico em Redes de computadores.
